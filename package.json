@@ -1,7 +1,7 @@
 {
   "name": "react-ssr-boilerplate",
   "version": "1.0.0",
-  "description": "React SSH boilerplate with Next.js",
+  "description": "React SSR boilerplate with Next.js",
   "main": "index.js",
   "scripts": {
     "dev": "next",
